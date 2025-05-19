@@ -24,7 +24,6 @@ Ollama will automatically download the required vision model
    pip install Pillow
    pip install PyMuPDF
    ```
-- _download from github (TBD)_
 - Launch the `pdf_to_tex_cli.py` to transfer with command line:
    - Enter the folder path. Please ensure that the folder contains only PDF files.
    - Wait for transferring, and `*.tex` file will be created under the folder.
