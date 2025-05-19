@@ -1,4 +1,4 @@
-# User Guide
+# Math OCR User Guide
 ## Step 1: Ollama Framework Setup
  
 - Go to the official webpage [here](https://ollama.com/)
